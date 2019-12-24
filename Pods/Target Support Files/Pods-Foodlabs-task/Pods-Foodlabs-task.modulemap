@@ -1,0 +1,6 @@
+framework module Pods_Foodlabs_task {
+  umbrella header "Pods-Foodlabs-task-umbrella.h"
+
+  export *
+  module * { export * }
+}
